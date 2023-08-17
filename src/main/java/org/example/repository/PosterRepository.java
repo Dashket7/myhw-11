@@ -7,7 +7,7 @@ public class PosterRepository {
     private int limit;
 
     public PosterRepository() {
-this.limit=5;
+        this.limit = 5;
     }
 
     public PosterRepository(int limit) {
